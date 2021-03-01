@@ -5,5 +5,6 @@ Solution of differential equation (describing elastic-plastic deformation) using
 ### Example:
 Program output for N = 7 elements
 
-<img src="https://github.com/sy1wi4/finite-element-method/blob/main/approximate%20solution.png" width="400" hspace="30"/> <img src="https://github.com/sy1wi4/finite-element-method/blob/main/basis%20functions.png" width="400"/>
+<img src="https://github.com/sy1wi4/finite-element-method/blob/main/approximate%20solution.png" width="500"/> 
+<img src="https://github.com/sy1wi4/finite-element-method/blob/main/basis%20functions.png" width="500"/>
 
